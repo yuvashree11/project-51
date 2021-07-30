@@ -1,0 +1,36 @@
+h1{
+    color:#F7FF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+*{
+    color: #000000;
+
+}
+
+.grid img{ 
+    border: 2px solid #0000FF;
+    border-radius: 50px;
+ }
+.origami{
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF0000;
+    padding: 15px;
+    font-weight: 400;
+    color: #00FF00;
+    
+}
+body{
+  margin: 0px;
+  background-image: url("wp2835932-light-background.jpg");
+}
